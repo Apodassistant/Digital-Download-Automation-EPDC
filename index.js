@@ -331,7 +331,7 @@ async function sendToKlaviyo(
               attributes: {
 
                 name:
-                  'Digital Download File Ready'
+                  'Digital Download File Ready-EPDC'
 
               }
 
